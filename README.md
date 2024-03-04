@@ -21,10 +21,10 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
   - [Uncertainty quantification](#uncertainty-quantification)
   - [Modeling](#modeling)
   - [Reference](#reference)
-
+  - [Geospatial ML](#geospatial-ml)
 
 ----
-## Geospatial ML
+## Geospatial ML - why special?
 In environmental monitoring and natural resource management, ML approaches offer unique opportunities for complex spatial solutions due to domains’ and scales’ adaptability and advantageous computational efficiency of methods. However, spatially distributed data describing environmental phenomena have specificity that introduces biases to the straightforward implementation of data-driven approaches. 
 We suggest a pipeline for ML geospatial applications in environmental modeling and elaborate on critical aspects such as imbalanced data, spatial autocorrelation, prediction errors, and the nuances of model generalization, domain specificity, and uncertainty estimation.
 Considering the dominant spread of Python and R as programming environments for data-driven modeling, including geospatial modifications, most of the libraries and packages we mention are made within these languages.
