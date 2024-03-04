@@ -73,3 +73,4 @@ Use in Ecological Models. <img height="20" src="img/R.png" alt="R">
 
 >1. [Awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial) - geospatial analysis tools.
 >2. [Awesome-GIS](https://github.com/mishagrol/Awesome-Environmental-Geospatial) - collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
+>3. [Change-Detection-Review](https://github.com/MinZHANG-WHU/Change-Detection-Review) - collection of methods, applications, and challenges of AI for change detection.
