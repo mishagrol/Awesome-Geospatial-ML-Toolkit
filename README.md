@@ -15,13 +15,14 @@ Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
 
 **Table Of Contents:**
 - [Awesome Environmental Geospatial ](#awesome-environmental-geospatial-)
+  - [Geospatial ML](#geospatial-ml)
   - [General analysis](#general-analysis)
   - [Imbalance data](#imbalance-data)
   - [Spatial autocorrelaton](#spatial-autocorrelaton)
   - [Uncertainty quantification](#uncertainty-quantification)
   - [Modeling](#modeling)
   - [Reference](#reference)
-  - [Geospatial ML](#geospatial-ml)
+  
 
 ----
 ## Geospatial ML - why special?
