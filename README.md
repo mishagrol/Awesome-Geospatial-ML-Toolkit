@@ -1,4 +1,4 @@
-# Awesome Environmental Geospatial [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/mishagrol/Awesome-Environmental-Geospatial)
+# Awesome-Geospatial-ML-Toolkit [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/mishagrol/Awesome-Environmental-Geospatial)
 
 [![GitHub stars](https://img.shields.io/github/stars/mishagrol/Awesome-Environmental-Geospatial)](https://github.com/mishagrol/Awesome-Environmental-Geospatial/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/mishagrol/Awesome-Environmental-Geospatial)](https://github.com/mishagrol/Awesome-Environmental-Geospatial/network)
@@ -6,32 +6,34 @@
 ![GitHub last commit](https://img.shields.io/github/last-commit/mishagrol/Awesome-Environmental-Geospatial)
 [![GitHub license](https://img.shields.io/github/license/mishagrol/Awesome-Environmental-Geospatial)](https://github.com/mishagrol/Awesome-Environmental-Geospatial/blob/master/LICENSE)
 
+Awesome Geospatial ML Toolkit is a curated collection of cutting-edge tools, resources, and projects that harness the power of geospatial technologies to address pressing environmental challenges. From GIS applications for habitat conservation to remote sensing techniques, this repository showcases the intersection of environmental science and spatial analysis. Whether you're a researcher, practitioner, or enthusiast, dive into this repository to discover innovative solutions for sustainable resource management, conservation planning, and environmental monitoring.
 
-Awesome Environmental Geospatial is a curated collection of cutting-edge tools, resources, and projects that harness the power of geospatial technologies to address pressing environmental challenges. From GIS applications for habitat conservation to remote sensing techniques, this repository showcases the intersection of environmental science and spatial analysis. Whether you're a researcher, practitioner, or enthusiast, dive into this repository to discover innovative solutions for sustainable resource management, conservation planning, and environmental monitoring.
+**How to contribute?** [Contributing Guidelines](https://github.com/mishagrol/Awesome-Environmental-Geospatial/blob/master/Contribute.md)
 
-**Please contribute. Let's make this guide better!** Please follow the [Contributing Guidelines](https://github.com/mishagrol/Awesome-Environmental-Geospatial/blob/master/Contribute.md). Or you can open issue: [Welcome to contribute](https://github.com/mishagrol/Awesome-Environmental-Geospatial/issues/)
-
-Inspired by [Awesome Python](https://github.com/vinta/awesome-python).
+Or you can open an issue: [Issues](https://github.com/mishagrol/Awesome-Environmental-Geospatial/issues/).
 
 **Table Of Contents:**
-- [Awesome Environmental Geospatial ](#awesome-environmental-geospatial-)
-  - [Geospatial ML](#geospatial-ml)
+
+- [Awesome-Geospatial-ML-Toolkit ](#awesome-geospatial-ml-toolkit-)
+  - [Geospatial ML - why special?](#geospatial-ml---why-special)
   - [General analysis](#general-analysis)
   - [Imbalance data](#imbalance-data)
   - [Spatial autocorrelaton](#spatial-autocorrelaton)
   - [Uncertainty quantification](#uncertainty-quantification)
-  - [Modeling](#modeling)
+  - [Modelling](#modelling)
   - [Reference](#reference)
   
-
 ----
+
 ## Geospatial ML - why special?
+
 In environmental monitoring and natural resource management, ML approaches offer unique opportunities for complex spatial solutions due to domains’ and scales’ adaptability and advantageous computational efficiency of methods. However, spatially distributed data describing environmental phenomena have specificity that introduces biases to the straightforward implementation of data-driven approaches. 
 We suggest a pipeline for ML geospatial applications in environmental modeling and elaborate on critical aspects such as imbalanced data, spatial autocorrelation, prediction errors, and the nuances of model generalization, domain specificity, and uncertainty estimation.
 Considering the dominant spread of Python and R as programming environments for data-driven modeling, including geospatial modifications, most of the libraries and packages we mention are made within these languages.
 
 ## General analysis
-- [Simple Features (sf)](https://r-spatial.github.io/sf/articles/sf1.html) -  Reading, writing and converting Simple Features. Provides a set of tools for working with geospatial geometries represented by points, lines, polygons. <img height="20" src="img/R.png" alt="R">
+
+- [Simple Features (sf)](https://r-spatial.github.io/sf/articles/sf1.html) - Reading, writing and converting Simple Features. Provides a set of tools for working with geospatial geometries represented by points, lines, polygons. <img height="20" src="img/R.png" alt="R">
 - [sp](https://github.com/edzer/sp/) - R Classes and Methods for Spatial Data. <img height="20" src="img/R.png" alt="R">
 - [raster](https://github.com/rspatial/raster) - A free and open source software tool that serves as an introduction to spatial data analysis. <img height="20" src="img/R.png" alt="R">
 - [terra](https://github.com/rspatial/terra) - Provides methods to manipulate geographic (spatial) data in "raster" and "vector" form. <img height="20" src="img/R.png" alt="R">
@@ -62,9 +64,12 @@ Use in Ecological Models. <img height="20" src="img/R.png" alt="R">
 - [inlabru](https://github.com/inlabru-org/inlabru/) - Packege to facilitate spatial modeling using integrated nested Laplace approximation via the R-INLA package. <img height="20" src="img/R.png" alt="R">
 - [Vizumap](https://github.com/lydialucchesi/Vizumap) - Package for visualizing uncertainty in spatial data. <img height="20" src="img/R.png" alt="R">
 - [spup](https://cran.r-project.org/web/packages/spup/index.html) - Uncertainty propagation analysis in spatial environmental modelling. <img height="20" src="img/R.png" alt="R"> [[paper](https://journal.r-project.org/archive/2018/RJ-2018-047/RJ-2018-047.pdf)]
-- [uncertainty-toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox) - a Python toolbox for predictive uncertainty quantification, calibration, metrics, and visualization. <img height="20" src="img/python.png" alt="python"> [[paper](https://arxiv.org/abs/2109.10254)] 
+- [uncertainty-toolbox](https://github.com/uncertainty-toolbox/uncertainty-toolbox) - a Python toolbox for predictive uncertainty quantification, calibration, metrics, and visualization. <img height="20" src="img/python.png" alt="python"> [[paper](https://arxiv.org/abs/2109.10254)]
+- [uq360](https://github.com/IBM/UQ360) - Open-source toolkit that can help estimate, communicate and use uncertainty in machine learning model predictions. <img height="20" src="img/python.png" alt="Python">
+- [fortuna](https://github.com/awslabs/fortuna) - A Library for Uncertainty Quantification by AWS. <img height="20" src="img/python.png" alt="Python">
+- [conformal-prediction](https://github.com/aangelopoulos/conformal-prediction) - Lightweight, useful implementation of conformal prediction on real data. <img height="20" src="img/python.png" alt="Python">
 
-## Modeling
+## Modelling
 
 - [sdmTMB](https://github.com/pbs-assess/sdmTMB/) - R package that fits spatial and spatiotemporal GLMMs (Generalized Linear Mixed Effects Models) using Template Model Builder, R-INLA, and Gaussian Markov random fields. <img height="20" src="img/R.png" alt="R">
 - [verde](https://github.com/fatiando/verde) - Python library for processing spatial data (bathymetry, geophysics surveys, etc) and interpolating it on regular grids (i.e., gridding). <img height="20" src="img/python.png" alt="Python">
@@ -73,9 +78,9 @@ Use in Ecological Models. <img height="20" src="img/R.png" alt="R">
 - [Google Earth Engine](https://earthengine.google.com/) - Combines a multi-petabyte catalog of satellite imagery and geospatial datasets with planetary-scale analysis capabilities. Scientists, researchers, and developers use Earth Engine to detect changes, map trends, and quantify differences on the Earth's surface. <img height="20" src="img/gee.png" alt="Rust">
 - [GeoStats.jl](https://github.com/JuliaEarth/GeoStats.jl) - An extensible framework for geospatial data science and geostatistical modeling fully written in Julia. <img height="20" src="img/julia.png" alt="Julia">
 - [torchgeo](https://github.com/microsoft/torchgeo) - datasets, samplers, transforms, and pre-trained models for geospatial data. <img height="20" src="img/pytorch.png" alt="Torch">
-  
+
 ## Reference
 
 >1. [Awesome-Geospatial](https://github.com/sacridini/Awesome-Geospatial) - geospatial analysis tools.
->2. [Awesome-GIS](https://github.com/mishagrol/Awesome-Environmental-Geospatial) - collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
+>2. [Awesome-GIS](https://github.com/sshuair/awesome-gis) - collection of geospatial related sources, including cartographic tools, geoanalysis tools, developer tools, data, conference & communities, news, massive open online course, some amazing map sites, and more.
 >3. [Change-Detection-Review](https://github.com/MinZHANG-WHU/Change-Detection-Review) - collection of methods, applications, and challenges of AI for change detection.
