@@ -1,16 +1,16 @@
-# Awesome-Geospatial-ML-Toolkit [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/mishagrol/Awesome-Environmental-Geospatial)
+# Awesome-Geospatial-ML-Toolkit [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/mishagrol/Awesome-Geospatial-ML-Toolkit)
 
-[![GitHub stars](https://img.shields.io/github/stars/mishagrol/Awesome-Environmental-Geospatial)](https://github.com/mishagrol/Awesome-Environmental-Geospatial/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/mishagrol/Awesome-Environmental-Geospatial)](https://github.com/mishagrol/Awesome-Environmental-Geospatial/network)
-![GitHub contributors](https://img.shields.io/github/contributors/mishagrol/Awesome-Environmental-Geospatial)
-![GitHub last commit](https://img.shields.io/github/last-commit/mishagrol/Awesome-Environmental-Geospatial)
-[![GitHub license](https://img.shields.io/github/license/mishagrol/Awesome-Environmental-Geospatial)](https://github.com/mishagrol/Awesome-Environmental-Geospatial/blob/master/LICENSE)
+[![GitHub stars](https://img.shields.io/github/stars/mishagrol/Awesome-Geospatial-ML-Toolkit)](https://github.com/mishagrol/Awesome-Geospatial-ML-Toolkit/stargazers)
+[![GitHub forks](https://img.shields.io/github/forks/mishagrol/Awesome-Geospatial-ML-Toolkit)](https://github.com/mishagrol/Awesome-Geospatial-ML-Toolkit/network)
+![GitHub contributors](https://img.shields.io/github/contributors/mishagrol/Awesome-Geospatial-ML-Toolkit)
+![GitHub last commit](https://img.shields.io/github/last-commit/mishagrol/Awesome-Geospatial-ML-Toolkit)
+[![GitHub license](https://img.shields.io/github/license/mishagrol/Awesome-Geospatial-ML-Toolkit)](https://github.com/mishagrol/Awesome-Geospatial-ML-Toolkit/blob/master/LICENSE)
 
 Awesome Geospatial ML Toolkit is a curated collection of cutting-edge tools, resources, and projects that harness the power of geospatial technologies to address pressing environmental challenges. From GIS applications for habitat conservation to remote sensing techniques, this repository showcases the intersection of environmental science and spatial analysis. Whether you're a researcher, practitioner, or enthusiast, dive into this repository to discover innovative solutions for sustainable resource management, conservation planning, and environmental monitoring.
 
-**How to contribute?** [Contributing Guidelines](https://github.com/mishagrol/Awesome-Environmental-Geospatial/blob/master/Contribute.md)
+**How to contribute?** [Contributing Guidelines](https://github.com/mishagrol/Awesome-Geospatial-ML-Toolkit/blob/master/Contribute.md)
 
-Or you can open an issue: [Issues](https://github.com/mishagrol/Awesome-Environmental-Geospatial/issues/).
+Or you can open an issue: [Issues](https://github.com/mishagrol/Awesome-Geospatial-ML-Toolkit/issues/).
 
 **Table Of Contents:**
 
