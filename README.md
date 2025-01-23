@@ -8,6 +8,28 @@
 
 Awesome Geospatial ML Toolkit is a curated collection of cutting-edge tools, resources, and projects that harness the power of geospatial technologies to address pressing environmental challenges. From GIS applications for habitat conservation to remote sensing techniques, this repository showcases the intersection of environmental science and spatial analysis. Whether you're a researcher, practitioner, or enthusiast, dive into this repository to discover innovative solutions for sustainable resource management, conservation planning, and environmental monitoring.
 
+**Paper**
+
+_Koldasbayeva, D., Tregubova, P., Gasanov, M., Zaytsev, A., Petrovskaia, A., & Burnaev, E. (2024). Challenges in data-driven geospatial modeling for environmental research and practice. Nature Communications, 15(1), 10700 (doi.org/10.1038/s41597-023-02096-0)_
+
+**Citation**
+
+If you use this work, please consider citing the following paper:
+
+```bibtex
+@article{koldasbayeva2024challenges,
+  title={Challenges in data-driven geospatial modeling for environmental research and practice},
+  author={Koldasbayeva, Diana and Tregubova, Polina and Gasanov, Mikhail and Zaytsev, Alexey and Petrovskaia, Anna and Burnaev, Evgeny},
+  journal={Nature Communications},
+  volume={15},
+  number={1},
+  pages={10700},
+  year={2024},
+  publisher={Nature Publishing Group UK London}
+}
+```
+
+
 **How to contribute?** [Contributing Guidelines](https://github.com/mishagrol/Awesome-Geospatial-ML-Toolkit/blob/master/Contribute.md)
 
 Or you can open an issue: [Issues](https://github.com/mishagrol/Awesome-Geospatial-ML-Toolkit/issues/).
