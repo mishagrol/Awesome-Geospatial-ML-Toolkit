@@ -59,10 +59,13 @@ Considering the dominant spread of Python and R as programming environments for 
 - [sp](https://github.com/edzer/sp/) - R Classes and Methods for Spatial Data. <img height="20" src="img/R.png" alt="R">
 - [raster](https://github.com/rspatial/raster) - A free and open source software tool that serves as an introduction to spatial data analysis. <img height="20" src="img/R.png" alt="R">
 - [terra](https://github.com/rspatial/terra) - Provides methods to manipulate geographic (spatial) data in "raster" and "vector" form. <img height="20" src="img/R.png" alt="R">
+- [stars](https://cran.r-project.org/web/packages/stars/index.html) – Supports spatiotemporal raster and vector data, providing an alternative to `raster` and `terra` for handling complex datasets.<img height="20" src="img/R.png" alt="R">
 - [geopandas](https://github.com/geopandas/geopandas) - GeoPandas is an open source project to make working with geospatial data in python easier. GeoPandas extends the datatypes used by pandas to allow spatial operations on geometric types. <img height="20" src="img/python.png" alt="Python">
 - [rasterio](https://github.com/rasterio/rasterio) - Geographic information systems use GeoTIFF and other formats to organize and store gridded raster datasets such as satellite imagery and terrain models. Rasterio reads and writes these formats and provides a Python API based on Numpy N-dimensional arrays and GeoJSON. <img height="20" src="img/python.png" alt="Python">
 - [gdal](https://github.com/OSGeo/gdal) - Presents a single raster abstract data model and single vector abstract data model to the calling application for all supported formats. It also comes with a variety of useful command line utilities for data translation and processing. <img height="20" src="img/c++.png" alt="C++">
 - [pysal](https://github.com/pysal/pysal) - the Python spatial analysis library, is an open source cross-platform library for geospatial data science with an emphasis on geospatial vector data written in Python. It supports the development of high level applications for spatial analysis, such as. <img height="20" src="img/python.png" alt="Python">
+
+
   
 ## Imbalance data
 
