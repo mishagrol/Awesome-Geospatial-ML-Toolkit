@@ -103,6 +103,7 @@ Use in Ecological Models. <img height="20" src="img/R.png" alt="R">
 - [Google Earth Engine](https://earthengine.google.com/) - Combines a multi-petabyte catalog of satellite imagery and geospatial datasets with planetary-scale analysis capabilities. Scientists, researchers, and developers use Earth Engine to detect changes, map trends, and quantify differences on the Earth's surface. <img height="20" src="img/gee.png" alt="Rust">
 - [GeoStats.jl](https://github.com/JuliaEarth/GeoStats.jl) - An extensible framework for geospatial data science and geostatistical modeling fully written in Julia. <img height="20" src="img/julia.png" alt="Julia">
 - [torchgeo](https://github.com/microsoft/torchgeo) - datasets, samplers, transforms, and pre-trained models for geospatial data. <img height="20" src="img/pytorch.png" alt="Torch">
+- [Cast](https://github.com/HannaMeyer/CAST) - Caret Applications for Spatio-Temporal models. <img height="20" src="img/R.png" alt="R">
 
 ## Reference
 
